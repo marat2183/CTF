@@ -1,4 +1,5 @@
 from socket import *
+#import hashlib
 Server_host = '51.158.165.206'
 Server_port = 9091
 socket_object = socket(AF_INET, SOCK_STREAM)
